@@ -1,1 +1,1 @@
-# didactic-chat_react-native
+# didactic-chat
